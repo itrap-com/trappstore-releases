@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.waypoint.app",
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://trappstore.com/waypoint/waypoint-0.1.0.apk",
+  "sha256": "1bbcd60b9339340d97a170c08f4ee1b6b6116f3c60bdbfb8ecedfaae97c96e71",
+  "channel": "internal",
+  "releaseDate": "2026-04-03",
+  "releaseNotes": "Initial Waypoint private tester release"
+}

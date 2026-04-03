@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "waypoint",
+      "name": "Waypoint",
+      "description": "Navigation for Queensland roads",
+      "packageName": "com.waypoint.app",
+      "manifestUrl": "https://trappstore.com/waypoint/manifest.json"
+    }
+  ]
+}
