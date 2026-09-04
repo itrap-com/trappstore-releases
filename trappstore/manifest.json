@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 2,
-  "versionName": "2.0.0",
+  "versionCode": 3,
+  "versionName": "2.1.0",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "edb954ea80620459a44c76de9d0a36b13dd97aff86691a728203fc6ff685e969",
+  "sha256": "e45b5efcd7bd71d104b61abed0dc738f5696d43d55e10c04dd2263dd2c8dad9d",
   "channel": "internal",
   "releaseDate": "2026-09-04",
-  "releaseNotes": "New window. Ticketed house. Uninstall v1 first if Android rejects the update (different signing key).",
-  "apkSizeBytes": 6989772,
+  "releaseNotes": "Listing. Cover. Lock on leave.",
+  "apkSizeBytes": 7006632,
   "minSdk": 26
 }
