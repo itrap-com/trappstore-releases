@@ -18,6 +18,10 @@
   Content-Type: application/octet-stream
   Cache-Control: no-store
 
+/o/w
+  Content-Type: application/octet-stream
+  Cache-Control: no-store
+
 /o/*
   Content-Type: application/octet-stream
   Content-Disposition: attachment

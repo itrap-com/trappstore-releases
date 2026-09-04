@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 3,
-  "versionName": "2.1.0",
+  "versionCode": 4,
+  "versionName": "2.2.0",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "e45b5efcd7bd71d104b61abed0dc738f5696d43d55e10c04dd2263dd2c8dad9d",
+  "sha256": "b0717a892e0dcb86e7dffd151fe797958cf7106686c162fb984348eb07f5f047",
   "channel": "internal",
   "releaseDate": "2026-09-04",
-  "releaseNotes": "Listing. Cover. Lock on leave.",
-  "apkSizeBytes": 7006632,
+  "releaseNotes": "House launcher. Ticket keeps the shelf.",
+  "apkSizeBytes": 7006688,
   "minSdk": 26
 }
