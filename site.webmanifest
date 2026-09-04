@@ -1,7 +1,7 @@
 {
   "name": "Trappstore",
   "short_name": "Trappstore",
-  "description": "Private Android-first app window. Drop a patch. They pull up.",
+  "description": "A private Android store. Install once. Updates come back here.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
