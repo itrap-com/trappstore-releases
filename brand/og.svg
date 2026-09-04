@@ -2,10 +2,15 @@
   <rect width="1200" height="630" fill="#0E0B09"/>
   <rect x="80" y="70" width="1040" height="490" rx="18" fill="#120E0B" stroke="#2A241C" stroke-width="18"/>
   <rect x="80" y="70" width="1040" height="72" fill="#2A241C"/>
+  <g transform="translate(104,82) scale(0.44)">
+    <rect x="18" y="48" width="72" height="18" fill="#E8942A"/>
+    <path fill="#120E0B" d="M30 48V26A4 4 0 0 1 34 22H74A4 4 0 0 1 78 26V48Z"/>
+    <path fill="#120E0B" d="M30 66H78V82A4 4 0 0 1 74 86H34A4 4 0 0 1 30 82Z"/>
+  </g>
   <circle cx="1088" cy="106" r="8" fill="#E8942A"/>
-  <text x="110" y="118" fill="#F3E6C8" font-family="Arial Narrow, sans-serif" font-size="28" font-weight="700" letter-spacing="6">TRAPPSTORE</text>
-  <text x="110" y="300" fill="#E8942A" font-family="Arial Narrow, sans-serif" font-size="22" letter-spacing="8">OPEN</text>
-  <text x="110" y="420" fill="#F3E6C8" font-family="Arial Narrow, sans-serif" font-size="96" font-weight="800" letter-spacing="-2">THE STORE.</text>
+  <text x="164" y="118" fill="#F3E6C8" font-family="Arial Narrow, sans-serif" font-size="28" font-weight="700" letter-spacing="6">TRAPPSTORE</text>
+  <text x="110" y="300" fill="#E8942A" font-family="Arial Narrow, sans-serif" font-size="22" letter-spacing="8">PRIVATE ANDROID</text>
+  <text x="110" y="420" fill="#F3E6C8" font-family="Arial Narrow, sans-serif" font-size="96" font-weight="800" letter-spacing="-2">INSTALL ONCE.</text>
   <rect x="140" y="500" width="280" height="22" rx="3" fill="#E8942A"/>
   <text x="110" y="560" fill="#C4B49A" font-family="monospace" font-size="18" letter-spacing="3">TRAPPSTORE.COM</text>
 </svg>

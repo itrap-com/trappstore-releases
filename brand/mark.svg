@@ -1,21 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-label="Trappstore">
   <title>Trappstore</title>
   <!--
-    THE MARK — a night window with a pass-through slot.
-    GRID        108×108 Android adaptive. Centre (54,54).
-    SAFE        inner 72×72 (18–90). All ink lives here.
-    FRAME       metal rounded-rect, stroke 6, rx 8, inset to 22–86.
-    GLASS       empty. The counter is the hole.
-    SLOT        sodium bar, the pass-through. This is the idea.
-    LAMP        2.4 r sodium, upper-right of the glass — the OPEN light.
-    CLEARSPACE  8 units (half the frame band).
-    MIN SIZE    16px. Below that, use favicon.svg (slot + frame only).
-    PALETTE     metal #2A241C · night #0E0B09 · sodium #E8942A
-    ONE COLOUR  the slot still reads as a bar in a frame.
+    THE MARK — a through-slot. Sodium punches the plate and sticks out both sides.
+    GRID        108. Safe 18–90.
+    TRANSOM     metal 30,22 48×26, rx 4 top.
+    SLOT        18,48 72×18 sodium — wider than the plate.
+    SILL        metal 30,66 48×20, rx 4 bottom.
+    MIN 16px    the through-bar still reads.
+    PALETTE     night #0E0B09 · metal #2A241C · sodium #E8942A
   -->
   <rect width="108" height="108" fill="#0E0B09"/>
-  <rect x="22" y="22" width="64" height="64" rx="8" fill="none" stroke="#2A241C" stroke-width="6"/>
-  <rect x="34" y="34" width="40" height="28" fill="#120E0B"/>
-  <rect x="34" y="70" width="40" height="7" rx="1.4" fill="#E8942A"/>
-  <circle cx="68" cy="42" r="2.6" fill="#E8942A"/>
+  <rect x="18" y="48" width="72" height="18" fill="#E8942A"/>
+  <path fill="#2A241C" d="M30.0,48.0V26.0A4.0,4.0 0 0 1 34.0,22.0H74.0A4.0,4.0 0 0 1 78.0,26.0V48.0Z"/>
+  <path fill="#2A241C" d="M30.0,66.0H78.0V82.0A4.0,4.0 0 0 1 74.0,86.0H34.0A4.0,4.0 0 0 1 30.0,82.0Z"/>
 </svg>

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "store": {
     "name": "Trappstore",
-    "tagline": "Private Android store.",
+    "tagline": "Private Android.",
     "minAndroid": 26,
     "updatedAt": "2026-09-04"
   },
@@ -10,9 +10,9 @@
     {
       "id": "trappstore",
       "name": "Trappstore",
-      "tagline": "The store app.",
-      "description": "The store app.",
-      "longDescription": "A private Android store. Install it once from this page. New versions appear here. Auto-update is a setting, off by default.",
+      "tagline": "Install once.",
+      "description": "Trappstore.",
+      "longDescription": "Install it once from this page. New versions appear here. Auto-update is a setting, off by default.",
       "packageName": "dev.trappstore.app",
       "manifestUrl": "https://trappstore.com/trappstore/manifest.json",
       "iconUrl": "https://trappstore.com/brand/mark.svg",
