@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.waypoint.app",
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://trappstore.com/waypoint/waypoint-0.4.0.apk",
+  "sha256": "8de6b09125c54fdf01e32424ff98e0326b6489a08e375b0d2adf5ac7c211f4e2",
+  "channel": "internal",
+  "releaseDate": "2026-04-06",
+  "releaseNotes": "New signing key — uninstall previous version before installing. Version bump to 0.4.0.",
+  "apkSizeBytes": 47998341,
+  "minSdk": 26
+}

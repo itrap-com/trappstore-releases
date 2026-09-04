@@ -1,0 +1,24 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/*.apk
+  Content-Type: application/vnd.android.package-archive
+  Content-Disposition: attachment
+  Cache-Control: public, max-age=300
+
+/catalog.json
+  Cache-Control: public, max-age=60
+
+/*/manifest.json
+  Cache-Control: public, max-age=60
+
+/o/c
+  Content-Type: application/octet-stream
+  Cache-Control: no-store
+
+/o/*
+  Content-Type: application/octet-stream
+  Content-Disposition: attachment
+  Cache-Control: public, max-age=300

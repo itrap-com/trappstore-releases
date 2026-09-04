@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.trapstar.game",
+  "versionCode": 0,
+  "versionName": "0.0.0",
+  "apkUrl": "",
+  "sha256": "",
+  "channel": "internal",
+  "releaseDate": "",
+  "releaseNotes": "On deck. Drop the APK with npm run drop.",
+  "minSdk": 26
+}

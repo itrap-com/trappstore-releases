@@ -1,0 +1,5 @@
+# Files (APKs, JSON, fonts) are served first. These only catch the glass routes.
+/app/*  /index.html  200
+/how    /index.html  200
+/desk   /index.html  200
+/stash  /index.html  200

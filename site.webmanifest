@@ -1,0 +1,23 @@
+{
+  "name": "Trappstore",
+  "short_name": "Trappstore",
+  "description": "Private Android-first app window. Drop a patch. They pull up.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0E0B09",
+  "theme_color": "#120E0B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/brand/mark-maskable.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}

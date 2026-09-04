@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "store": {
+    "name": "Trappstore",
+    "tagline": "Private Android. One drop at a time.",
+    "minAndroid": 26,
+    "updatedAt": "2026-09-04"
+  },
+  "apps": [
+    {
+      "id": "trappstore",
+      "name": "Trappstore",
+      "tagline": "The window.",
+      "description": "Private Android store. Sideload once.",
+      "longDescription": "Trappstore is a private window for Android apps. Sideload it once. Patches land here when you pull up. No Play. No account. No USB.",
+      "packageName": "dev.trappstore.app",
+      "manifestUrl": "https://trappstore.com/trappstore/manifest.json",
+      "iconUrl": "https://trappstore.com/brand/mark.svg",
+      "category": "Store",
+      "developer": "itrap",
+      "screenshots": [],
+      "status": "live",
+      "kind": "store",
+      "accent": "#E8942A",
+      "platforms": ["android", "ios", "web"],
+      "webUrl": "https://trappstore.com/",
+      "iosMode": "pwa",
+      "sort": 0
+    },
+    {
+      "id": "waypoint",
+      "name": "Waypoint",
+      "tagline": "QLD roads. Offline. No noise.",
+      "description": "Navigation built for Queensland roads — offline-first, calm cockpit, hazard-aware.",
+      "longDescription": "Offline-first navigation built specifically for Queensland roads. Calm cockpit, hazard awareness, rerouting, ETA confidence, speed warnings, custom place icons. Built for drivers who want the road — not a feed.",
+      "packageName": "com.waypoint.app",
+      "manifestUrl": "https://trappstore.com/waypoint/manifest.json",
+      "iconUrl": "",
+      "category": "Navigation",
+      "developer": "itrap",
+      "screenshots": [],
+      "status": "live",
+      "kind": "app",
+      "accent": "#6DB3A8",
+      "platforms": ["android"],
+      "iosMode": "android-only",
+      "sort": 1
+    }
+  ]
+}

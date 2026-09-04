@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "app.tick.local",
+  "versionCode": 0,
+  "versionName": "0.0.0",
+  "apkUrl": "",
+  "sha256": "",
+  "channel": "internal",
+  "releaseDate": "",
+  "releaseNotes": "On deck. Drop the APK with npm run drop.",
+  "minSdk": 29
+}
