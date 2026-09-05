@@ -11,6 +11,9 @@
 /catalog.json
   Cache-Control: public, max-age=60
 
+/shop.json
+  Cache-Control: public, max-age=60
+
 /*/manifest.json
   Cache-Control: public, max-age=60
 
