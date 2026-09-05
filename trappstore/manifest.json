@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 4,
-  "versionName": "2.2.0",
+  "versionCode": 5,
+  "versionName": "2.3.0",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "b0717a892e0dcb86e7dffd151fe797958cf7106686c162fb984348eb07f5f047",
+  "sha256": "b0a20321f1822c1ea135c27764700ba226c16a9235f5cc469241165293f9cdfb",
   "channel": "internal",
-  "releaseDate": "2026-09-04",
-  "releaseNotes": "House launcher. Ticket keeps the shelf.",
-  "apkSizeBytes": 7006688,
+  "releaseDate": "2026-09-05",
+  "releaseNotes": "You. House chrome. Floor is a home screen.",
+  "apkSizeBytes": 10727933,
   "minSdk": 26
 }
