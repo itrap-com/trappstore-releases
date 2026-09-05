@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 10,
-  "versionName": "2.4.3",
+  "versionCode": 11,
+  "versionName": "2.4.4",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "c6085c2551b710cb63e4ede420d1f311a25fa9fa0320928fd3ce5337906b367a",
+  "sha256": "4e1f812eb2e3caacff4f18c46fa8278b87331d580aae98d360517587a259d13f",
   "channel": "internal",
   "releaseDate": "2026-09-05",
-  "releaseNotes": "Open is a button. Paste opens the room. The room keeps listening.",
-  "apkSizeBytes": 10728021,
+  "releaseNotes": "Search sits above Waypoint. Details opens it.",
+  "apkSizeBytes": 10728025,
   "minSdk": 26
 }
