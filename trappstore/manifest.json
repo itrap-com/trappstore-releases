@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 7,
-  "versionName": "2.4.0",
+  "versionCode": 9,
+  "versionName": "2.4.2",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "9183005294d9e1d692a826f743e2d92c4b9f33a6375203f57507f0fb5bfbe766",
+  "sha256": "464fdb1e534f90583736ac335854463eeddbb8abf5799d0d2259db897fac36c2",
   "channel": "internal",
   "releaseDate": "2026-09-05",
-  "releaseNotes": "Hold Open. Paste the whole line in Search.",
+  "releaseNotes": "Hold Open until the bar fills. Paste the whole line anywhere.",
   "apkSizeBytes": 10728025,
   "minSdk": 26
 }
