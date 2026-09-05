@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 6,
-  "versionName": "2.3.1",
+  "versionCode": 7,
+  "versionName": "2.4.0",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "2c376c95c17629e268c09f36623a6cefd47404d2b57bd3b6cba871dbc8989a70",
+  "sha256": "9183005294d9e1d692a826f743e2d92c4b9f33a6375203f57507f0fb5bfbe766",
   "channel": "internal",
   "releaseDate": "2026-09-05",
-  "releaseNotes": "Install from Files. Uninstall an old Trappstore if Android refuses.",
-  "apkSizeBytes": 10728021,
+  "releaseNotes": "Hold Open. Paste the whole line in Search.",
+  "apkSizeBytes": 10728025,
   "minSdk": 26
 }
