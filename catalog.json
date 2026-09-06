@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "store": {
     "name": "Trappstore",
-    "tagline": "Private Android.",
+    "tagline": "After hours. Brisbane.",
     "minAndroid": 26,
     "updatedAt": "2026-09-06"
   },
@@ -10,15 +10,18 @@
     {
       "id": "trappstore",
       "name": "Trappstore",
-      "tagline": "The Android app.",
+      "tagline": "The shop.",
       "description": "The store. Install once, come back here for a new version.",
       "longDescription": "Install it once from this page. New versions appear here. Auto-update is a setting, off by default.",
+      "coverUrl": "https://trappstore.com/brand/till.jpg",
+      "screenshots": [
+        "https://trappstore.com/brand/till.jpg"
+      ],
       "packageName": "dev.trappstore.app",
       "manifestUrl": "https://trappstore.com/trappstore/manifest.json",
       "iconUrl": "https://trappstore.com/brand/mark.svg",
       "category": "Store",
       "developer": "itrap",
-      "screenshots": [],
       "status": "live",
       "kind": "store",
       "accent": "#E8A02A",

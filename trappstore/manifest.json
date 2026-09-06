@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 15,
-  "versionName": "2.4.8",
+  "versionCode": 18,
+  "versionName": "2.4.11",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "d6f0d479ce78baff0fc9f934d2858a86af3fb03b0d5651c2589b2c5691c4afe3",
+  "sha256": "9228a91a8f07e9f0f07b41c164ac3508b5c5c50d0367742fb4ad80823c0fdfdd",
   "channel": "internal",
   "releaseDate": "2026-09-06",
-  "releaseNotes": "Store from the site. Settings, not Dial.",
-  "apkSizeBytes": 10744409,
+  "releaseNotes": "Shopfront on the glass. House opens on the den.",
+  "apkSizeBytes": 11337737,
   "minSdk": 26
 }
