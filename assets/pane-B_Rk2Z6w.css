@@ -1,0 +1,1 @@
+@layer components{.line{display:grid;grid-template-rows:auto 1fr;gap:var(--sp-5);min-height:52vh}.line-log{display:grid;gap:var(--sp-3);align-content:start;overflow:auto;max-height:52vh}.line-body{color:var(--ink);overflow-wrap:anywhere;white-space:pre-wrap}}

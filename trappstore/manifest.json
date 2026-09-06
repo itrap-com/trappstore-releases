@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packageName": "dev.trappstore.app",
-  "versionCode": 11,
-  "versionName": "2.4.4",
+  "versionCode": 15,
+  "versionName": "2.4.8",
   "apkUrl": "https://trappstore.com/trappstore.apk",
-  "sha256": "4e1f812eb2e3caacff4f18c46fa8278b87331d580aae98d360517587a259d13f",
+  "sha256": "d6f0d479ce78baff0fc9f934d2858a86af3fb03b0d5651c2589b2c5691c4afe3",
   "channel": "internal",
-  "releaseDate": "2026-09-05",
-  "releaseNotes": "Search sits above Waypoint. Details opens it.",
-  "apkSizeBytes": 10728025,
+  "releaseDate": "2026-09-06",
+  "releaseNotes": "Store from the site. Settings, not Dial.",
+  "apkSizeBytes": 10744409,
   "minSdk": 26
 }

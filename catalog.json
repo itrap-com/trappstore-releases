@@ -4,14 +4,14 @@
     "name": "Trappstore",
     "tagline": "Private Android.",
     "minAndroid": 26,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-09-06"
   },
   "apps": [
     {
       "id": "trappstore",
       "name": "Trappstore",
-      "tagline": "Install once.",
-      "description": "The night window. Install once, come back here for a new version.",
+      "tagline": "The Android app.",
+      "description": "The store. Install once, come back here for a new version.",
       "longDescription": "Install it once from this page. New versions appear here. Auto-update is a setting, off by default.",
       "packageName": "dev.trappstore.app",
       "manifestUrl": "https://trappstore.com/trappstore/manifest.json",
@@ -21,7 +21,7 @@
       "screenshots": [],
       "status": "live",
       "kind": "store",
-      "accent": "#E8942A",
+      "accent": "#E8A02A",
       "platforms": [
         "android",
         "ios",

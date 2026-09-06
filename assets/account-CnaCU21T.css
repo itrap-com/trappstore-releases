@@ -1,0 +1,1 @@
+@layer components{.account-form{display:grid;gap:var(--sp-3);max-width:22rem;margin-top:var(--sp-4)}.account-form input,.account-input{width:100%;background:var(--surface);border:1px solid var(--edge);color:var(--ink);padding:10px 12px;border-radius:var(--r-control);min-height:48px}.account-form .slot{width:100%;min-height:44px}}
